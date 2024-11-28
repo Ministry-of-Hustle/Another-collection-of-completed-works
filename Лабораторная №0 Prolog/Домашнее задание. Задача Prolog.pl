@@ -32,3 +32,5 @@ resulting(Wolfstamp, Wolfpos, Nifstamp, Nifpos, Noofstamp, Noofpos, Nafstamp, Na
     Nifpos is (SpaceX + 1) mod 4,
     Noofpos is (Nafpos + 2) mod 4,
     Wolfpos is (Nafpos - 1) mod 4.
+
+resulting(Wolfstamp, Wolfpos, Nifstamp, Nifpos, Noofstamp, Noofpos, Nafstamp, Nafpos)
